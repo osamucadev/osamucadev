@@ -3,11 +3,10 @@
 # 👨‍💻 Samuel Caetité
 ### Full-Stack Developer | Building Systems That Work Under Pressure
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcaetite@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelcaetite)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999510580)
-
-![Profile Views](https://komarev.com/ghpvc/?username=osamucadev&color=0A66C2&style=for-the-badge&label=PERFIL+VISITADO)
 
 </div>
 
@@ -76,12 +75,43 @@ const principles = {
 
 ## 🚀 Projetos em Destaque
 
+<div align="center">
 
-[SiteForge](https://github.com/osamucadev/site-forge)
+### 🏗️ SiteForge
+**Sistema modular para landing pages otimizadas**
 
-[TrueStreak](https://github.com/osamucadev/truestreak)
+[![SiteForge](./assets/site-forge.png)](https://samuelcaetite.dev/site-forge)
 
+Build system zero-config com otimização automática: WebP, minificação, cache busting e SEO completo.
 
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/site-forge)
+[![Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/site-forge)
+
+---
+
+### 💪 TrueStreak
+**App de fitness focado em consistência sem culpa**
+
+[![TrueStreak](./assets/true-streak.png)](https://truestreak.life)
+
+PWA moderna para acompanhamento de treinos com filosofia de progresso sustentável.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/truestreak)
+[![Site](https://img.shields.io/badge/Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://truestreak.life)
+
+---
+
+### 🌐 Portfolio
+**Site pessoal com build system customizado**
+
+[![Portfolio](./assets/samuel-caetite-dev.png)](https://samuelcaetite.dev)
+
+PWA otimizado com SCSS, minificação, cache busting e analytics privacy-friendly.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/frontsamuelcaetite)
+[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev)
+
+</div>
 
 ---
 
@@ -90,8 +120,10 @@ const principles = {
 | 🎯 Área | ✅ Abordagem |
 |---------|--------------|
 | **Frontend** | Não é estética, é responsabilidade técnica |
+| **Backend** | Estabilidade, clareza e previsibilidade vêm antes de complexidade |
+| **Mobile** | Extensão da experiência, não um produto isolado |
 | **Performance** | Decisão arquitetural, não afterthought |
-| **Código** | Precisa funcionar hoje e fazer sentido em 2 anos |
+| **Código** | Precisa funcionar hoje e fazer sentido amanhã de manhã |
 | **Stakeholder** | O "eu do futuro" também conta |
 | **Ferramentas** | Por adequação, não por moda |
 
@@ -108,6 +140,7 @@ Se você chegou até aqui e algo fez sentido, **provavelmente falamos a mesma l�
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcaetite@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelcaetite)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999510580)
 
 </div>
 
