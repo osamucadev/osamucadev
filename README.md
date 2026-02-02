@@ -46,6 +46,47 @@ const principles = {
 > 🤖 Uso IA no dia a dia, reviso código gerado por IA e desconfio tanto de código "mágico" quanto de soluções excessivamente elegantes que só funcionam no dia em que foram escritas.
 
 ---
+<div align="center">
+
+## 🚀 Projetos em Destaque
+
+### 🏗️ SiteForge
+**Sistema modular para landing pages otimizadas**
+
+[![SiteForge](./assets/site-forge.png)](https://samuelcaetite.dev/site-forge)
+
+Build system zero-config com otimização automática: WebP, minificação, cache busting e SEO completo.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/site-forge)
+[![Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/site-forge)
+
+---
+
+### 💪 TrueStreak
+**App de fitness focado em consistência sem culpa**
+
+[![TrueStreak](./assets/true-streak.png)](https://truestreak.life)
+
+Aplicação moderna para acompanhamento de treinos com filosofia de progresso sustentável.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/truestreak)
+[![Site](https://img.shields.io/badge/Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://truestreak.life)
+
+---
+
+### 🌐 Portfolio
+**Site pessoal com build system customizado**
+
+[![Portfolio](./assets/samuel-caetite-dev.png)](https://samuelcaetite.dev)
+
+Otimizado com SCSS, minificação, cache busting e analytics privacy-friendly.
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/frontsamuelcaetite)
+[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev)
+
+</div>
+
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -70,48 +111,6 @@ const principles = {
 ![Web Vitals](https://img.shields.io/badge/Web_Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/A11y-000000?style=for-the-badge&logo=accessibility&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-### 🏗️ SiteForge
-**Sistema modular para landing pages otimizadas**
-
-[![SiteForge](./assets/site-forge.png)](https://samuelcaetite.dev/site-forge)
-
-Build system zero-config com otimização automática: WebP, minificação, cache busting e SEO completo.
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/site-forge)
-[![Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/site-forge)
-
----
-
-### 💪 TrueStreak
-**App de fitness focado em consistência sem culpa**
-
-[![TrueStreak](./assets/true-streak.png)](https://truestreak.life)
-
-PWA moderna para acompanhamento de treinos com filosofia de progresso sustentável.
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/truestreak)
-[![Site](https://img.shields.io/badge/Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://truestreak.life)
-
----
-
-### 🌐 Portfolio
-**Site pessoal com build system customizado**
-
-[![Portfolio](./assets/samuel-caetite-dev.png)](https://samuelcaetite.dev)
-
-PWA otimizado com SCSS, minificação, cache busting e analytics privacy-friendly.
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/frontsamuelcaetite)
-[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev)
-
-</div>
 
 ---
 
