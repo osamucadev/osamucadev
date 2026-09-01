@@ -1,154 +1,104 @@
 <div align="center">
 
-# 👨‍💻 Samuel Caetité
-### Full-Stack Developer | Building Systems That Work Under Pressure
+# Samuel Caetité
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcaetite@gmail.com)
+### Desenvolvedor Full Stack Sênior
+
+**Entender. Resolver. Multiplicar.**
+
+Trabalho entre pessoas, produto e engenharia para transformar problemas complexos em software e criar melhores condições para continuar evoluindo.
+
+<sub>Senior Full Stack Developer working across people, product, and engineering to turn complex problems into sustainable software.</sub>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuelcaetite.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelcaetite)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999510580)
 
 </div>
 
----
+## Sobre mim
 
-## 🎯 Sobre Mim
+Desenvolvimento também é humano.
 
-Desenvolvedor de software formado em contextos onde **desatenção não é aceitável** e **improviso custa caro**.
+Antes do código, procuro compreender as pessoas que sentem o problema, a intenção do produto, as consequências para o negócio, o estado do sistema e suas restrições. Esse contexto orienta decisões técnicas responsáveis e evita que tecnologia vire um fim em si mesma.
 
-Não escrevo código para parecer inteligente.  
-Escrevo para **resolver problemas reais**, em **sistemas reais**, usados por **pessoas reais**, sob pressão de negócio, prazo e impacto.
+Atualmente sou **Desenvolvedor Full Stack Sênior na VCASOFT**, trabalhando em iniciativas para **Vivo / Telefónica, Tecidos Kite e Feeagro**. Minha trajetória também inclui projetos para **Americanas, CNN Brasil e Universidade de São Paulo**, além de experiências na **DRIVEN.CX, Vorttex, Saveadd, React Legends e Habits**.
 
-### 💼 Experiência Real
+Meu trabalho costuma envolver:
 
-- ✅ Black Fridays sem downtime
-- ✅ Sistemas críticos de alta disponibilidade
-- ✅ Produtos que não podem "cair para aprender"
-- ✅ Ambientes caóticos transformados em previsíveis
+- evolução progressiva de sistemas existentes;
+- desenvolvimento full stack e integrações;
+- e-commerce, performance e arquitetura web;
+- descoberta técnica e decisões sob restrições reais;
+- documentação, revisão, pareamento e liderança técnica;
+- criação de ferramentas e condições para ampliar a autonomia do time.
 
-**Meu trabalho:** Reduzir incerteza, trazer previsibilidade e deixar o sistema mais legível do que encontrei.
-
----
-
-## 🧠 Filosofia de Desenvolvimento
+## Como trabalho
 
 ```typescript
 const principles = {
-  code: "É lido muito mais vezes do que é escrito",
-  legibility: "Também é otimização",
-  abstraction: "Só vale o custo se reduzir sofrimento cognitivo",
-  hype: "Passa. Responsabilidade fica.",
-  frameworks: "São ferramentas, não religião",
-  stack: "Serve ao problema, não ao ego"
+  context: "Entender o suficiente para decidir conscientemente",
+  delivery: "Resolver o problema sem comprometer a próxima evolução",
+  clarity: "Código, decisões e documentação precisam ser legíveis",
+  modernization: "Transformar progressivamente sem ignorar o que já funciona",
+  leadership: "Multiplicar conhecimento, ferramentas e autonomia",
+  technology: "A stack serve ao problema, não ao ego"
 };
 ```
 
-> 🤖 Uso IA no dia a dia, reviso código gerado por IA e desconfio tanto de código "mágico" quanto de soluções excessivamente elegantes que só funcionam no dia em que foram escritas.
+Uso agentes de IA em investigação, implementação, revisão e testes. Eles ampliam minha capacidade de execução, mas contexto, julgamento, segurança e decisão técnica continuam sendo responsabilidades humanas.
 
----
-<div align="center">
+## Projetos em destaque
 
-## 🚀 Projetos em Destaque
+### Portfólio profissional
 
-### 🏗️ SiteForge
-**Sistema modular para landing pages otimizadas**
+[![Portfólio de Samuel Caetité](./assets/samuel-caetite-dev.png)](https://samuelcaetite.dev)
 
-[![SiteForge](./assets/site-forge.png)](https://samuelcaetite.dev/site-forge)
+Site estático multilíngue em português, inglês e espanhol, gerado a partir de uma única fonte e publicado em três sites do Firebase Hosting. O projeto inclui CSS versionado por conteúdo, metadados sociais, JSON-LD, sitemap, `llms.txt` e conteúdo específico para descoberta por mecanismos de busca e agentes.
 
-Build system zero-config com otimização automática: WebP, minificação, cache busting e SEO completo.
+[Código público](https://github.com/osamucadev/samuelcaetitedev-public) · [Site](https://samuelcaetite.dev) · [English](https://en.samuelcaetite.dev) · [Español](https://es.samuelcaetite.dev)
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/site-forge)
-[![Demo](https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/site-forge)
+### SiteForge
 
----
+[![SiteForge](./assets/site-forge.png)](https://github.com/osamucadev/site-forge)
 
-### 💪 TrueStreak
-**App de fitness focado em consistência sem culpa**
+Sistema modular para criação e publicação de landing pages estáticas. Automatiza otimização de imagens, minificação, versionamento de assets e fundamentos de SEO, mantendo cada página isolada e reproduzível.
+
+[Código e documentação](https://github.com/osamucadev/site-forge)
+
+### TrueStreak
 
 [![TrueStreak](./assets/true-streak.png)](https://truestreak.life)
 
-Aplicação moderna para acompanhamento de treinos com filosofia de progresso sustentável.
+Aplicação de acompanhamento de treinos com uma proposta de consistência sem culpa. O produto valoriza progresso sustentável e transforma esforço real em continuidade, sem tratar um dia difícil como perda de toda a evolução.
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/truestreak)
-[![Site](https://img.shields.io/badge/Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://truestreak.life)
+[Código](https://github.com/osamucadev/truestreak) · [Site](https://truestreak.life)
 
----
+## Tecnologias e práticas
 
-### 🌐 Portfolio
-**Site pessoal com build system customizado**
+| Área | Experiência principal |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, Next.js, Vue, HTML e CSS |
+| Backend | Node.js, NestJS, APIs e integrações |
+| Dados e infraestrutura | PostgreSQL, Firebase, AWS e Azure |
+| Produto web | E-commerce, acessibilidade, SEO técnico e Web Performance |
+| Engenharia | Arquitetura, modernização progressiva, testes, documentação e code review |
+| Colaboração | Descoberta técnica, comunicação com stakeholders, pareamento e ensino |
 
-[![Portfolio](./assets/samuel-caetite-dev.png)](https://samuelcaetite.dev)
+Ferramentas mudam. Critério fica.
 
-Otimizado com SCSS, minificação, cache busting e analytics privacy-friendly.
+## Contato
 
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev/frontsamuelcaetite)
-[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev)
+Gosto de problemas interessantes e de gente boa para resolvê-los junto.
 
-</div>
-
----
-
-## 🛠️ Stack Tecnológico
-
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 📊 Foco em Qualidade
-![Web Vitals](https://img.shields.io/badge/Web_Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Accessibility](https://img.shields.io/badge/A11y-000000?style=for-the-badge&logo=accessibility&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-## 💡 Princípios Técnicos
-
-| 🎯 Área | ✅ Abordagem |
-|---------|--------------|
-| **Frontend** | Não é estética, é responsabilidade técnica |
-| **Backend** | Estabilidade, clareza e previsibilidade vêm antes de complexidade |
-| **Mobile** | Extensão da experiência, não um produto isolado |
-| **Performance** | Decisão arquitetural, não afterthought |
-| **Código** | Precisa funcionar hoje e fazer sentido amanhã de manhã |
-| **Stakeholder** | O "eu do futuro" também conta |
-| **Ferramentas** | Por adequação, não por moda |
-
----
-
-## 🤝 Vamos Conversar?
+- [Portfólio](https://samuelcaetite.dev)
+- [LinkedIn](https://linkedin.com/in/samuelcaetite)
+- [E-mail](mailto:srcaetite@gmail.com)
+- [WhatsApp](https://wa.me/5511999510580)
 
 <div align="center">
 
-**Aberto a oportunidades de trabalho remoto ou híbrido** 🌎
-
-Se você chegou até aqui e algo fez sentido, **provavelmente falamos a mesma língua**.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcaetite@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelcaetite)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samuelcaetite.dev/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999510580)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 "Se algo aqui parece simples, provavelmente foi pensado com cuidado."
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+**No fim, ainda é sobre pessoas.**
 
 </div>
