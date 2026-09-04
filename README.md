@@ -53,7 +53,7 @@ Uso agentes de IA em investigação, implementação, revisão e testes. Eles am
 
 ### Portfólio profissional
 
-[![Portfólio de Samuel Caetité](./assets/samuel-caetite-dev.png)](https://samuelcaetite.dev)
+[![Portfólio de Samuel Caetité](./assets/samuel-caetite-dev.jpg)](https://samuelcaetite.dev)
 
 Site estático multilíngue em português, inglês e espanhol, gerado a partir de uma única fonte e publicado em três sites do Firebase Hosting. O projeto inclui CSS versionado por conteúdo, metadados sociais, JSON-LD, sitemap, `llms.txt` e conteúdo específico para descoberta por mecanismos de busca e agentes.
 
@@ -61,7 +61,7 @@ Site estático multilíngue em português, inglês e espanhol, gerado a partir d
 
 ### SiteForge
 
-[![SiteForge](./assets/site-forge.png)](https://github.com/osamucadev/site-forge)
+[![SiteForge](./assets/site-forge.webp)](https://github.com/osamucadev/site-forge)
 
 Sistema modular para criação e publicação de landing pages estáticas. Automatiza otimização de imagens, minificação, versionamento de assets e fundamentos de SEO, mantendo cada página isolada e reproduzível.
 
@@ -69,11 +69,19 @@ Sistema modular para criação e publicação de landing pages estáticas. Autom
 
 ### TrueStreak
 
-[![TrueStreak](./assets/true-streak.png)](https://truestreak.life)
+[![TrueStreak](./assets/true-streak.webp)](https://truestreak.life)
 
 Aplicação de acompanhamento de treinos com uma proposta de consistência sem culpa. O produto valoriza progresso sustentável e transforma esforço real em continuidade, sem tratar um dia difícil como perda de toda a evolução.
 
 [Código](https://github.com/osamucadev/truestreak) · [Site](https://truestreak.life)
+
+### Job Watcher
+
+[![Job Watcher](./assets/job-watcher.webp)](https://github.com/osamucadev/job-watcher)
+
+Painel local que monitora páginas de carreira, identifica novas oportunidades e preserva o histórico. A primeira versão acompanha a InHire em horários programados, com destaques por palavras-chave e arquivamento sem apagar dados.
+
+[Código](https://github.com/osamucadev/job-watcher)
 
 ## Tecnologias e práticas
 
