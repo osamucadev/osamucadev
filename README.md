@@ -2,111 +2,78 @@
 
 # Samuel Caetité
 
-### Desenvolvedor Full Stack Sênior
+### Senior Software Engineer
 
-**Entender. Resolver. Multiplicar.**
-
-Trabalho entre pessoas, produto e engenharia para transformar problemas complexos em software e criar melhores condições para continuar evoluindo.
-
-<sub>Senior Full Stack Developer working across people, product, and engineering to turn complex problems into sustainable software.</sub>
+I build and evolve software across the full stack, from frontend and backend to mobile, with a focus on architecture, maintainability and progressive modernization.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuelcaetite.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelcaetite)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamucadev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999510580)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcaetite@gmail.com)
 
 </div>
 
-## Sobre mim
+## About
 
-Desenvolvimento também é humano.
+I currently work as a Senior Software Engineer at **VCASOFT**, on initiatives for **Vivo / Telefónica, Tecidos Kite and Feeagro**. My background also includes projects for **Americanas, CNN Brasil and Universidade de São Paulo**, along with experience at **DRIVEN.CX, Vorttex, Saveadd, React Legends and Habits**.
 
-Antes do código, procuro compreender as pessoas que sentem o problema, a intenção do produto, as consequências para o negócio, o estado do sistema e suas restrições. Esse contexto orienta decisões técnicas responsáveis e evita que tecnologia vire um fim em si mesma.
+Before writing code, I try to understand the people affected by a problem, the product intent, the business context and the constraints of the existing system. That context is what makes technical decisions responsible rather than just possible.
 
-Atualmente sou **Desenvolvedor Full Stack Sênior na VCASOFT**, trabalhando em iniciativas para **Vivo / Telefónica, Tecidos Kite e Feeagro**. Minha trajetória também inclui projetos para **Americanas, CNN Brasil e Universidade de São Paulo**, além de experiências na **DRIVEN.CX, Vorttex, Saveadd, React Legends e Habits**.
+JavaScript and TypeScript are central to how I work, but I move across layers of a product as needed, from UI to APIs to infrastructure, rather than staying confined to one stack.
 
-Meu trabalho costuma envolver:
-
-- evolução progressiva de sistemas existentes;
-- desenvolvimento full stack e integrações;
-- e-commerce, performance e arquitetura web;
-- descoberta técnica e decisões sob restrições reais;
-- documentação, revisão, pareamento e liderança técnica;
-- criação de ferramentas e condições para ampliar a autonomia do time.
-
-## Como trabalho
+## How I work
 
 ```typescript
 const principles = {
-  context: "Entender o suficiente para decidir conscientemente",
-  delivery: "Resolver o problema sem comprometer a próxima evolução",
-  clarity: "Código, decisões e documentação precisam ser legíveis",
-  modernization: "Transformar progressivamente sem ignorar o que já funciona",
-  leadership: "Multiplicar conhecimento, ferramentas e autonomia",
-  technology: "A stack serve ao problema, não ao ego"
+  context: "Understand enough to decide deliberately",
+  delivery: "Solve the problem without blocking the next evolution",
+  clarity: "Code, decisions and docs need to be readable",
+  modernization: "Transform systems progressively, without ignoring what already works",
+  leadership: "Multiply knowledge, tooling and autonomy",
+  technology: "The stack serves the problem, not the other way around",
 };
 ```
 
-Uso agentes de IA em investigação, implementação, revisão e testes. Eles ampliam minha capacidade de execução, mas contexto, julgamento, segurança e decisão técnica continuam sendo responsabilidades humanas.
+I use AI agents for investigation, implementation, review and testing. They extend how much I can execute, but context, judgment and technical decisions stay a human responsibility.
 
-## Projetos em destaque
+## Professional Portfolio
 
-### Portfólio profissional
+[![Samuel Caetité's portfolio](./assets/samuelcaetitedev.png)](https://samuelcaetite.dev)
 
-[![Portfólio de Samuel Caetité](./assets/samuel-caetite-dev.jpg)](https://samuelcaetite.dev)
+My personal website holds the deeper version of my story: engineering approach, experience and selected work.
 
-Site estático multilíngue em português, inglês e espanhol, gerado a partir de uma única fonte e publicado em três sites do Firebase Hosting. O projeto inclui CSS versionado por conteúdo, metadados sociais, JSON-LD, sitemap, `llms.txt` e conteúdo específico para descoberta por mecanismos de busca e agentes.
+[Visit portfolio](https://samuelcaetite.dev)
 
-[Código público](https://github.com/osamucadev/samuelcaetitedev-public) · [Site](https://samuelcaetite.dev) · [English](https://en.samuelcaetite.dev) · [Español](https://es.samuelcaetite.dev)
+## Selected Projects
 
 ### SiteForge
 
 [![SiteForge](./assets/site-forge.webp)](https://github.com/osamucadev/site-forge)
 
-Sistema modular para criação e publicação de landing pages estáticas. Automatiza otimização de imagens, minificação, versionamento de assets e fundamentos de SEO, mantendo cada página isolada e reproduzível.
+A modular build system for static landing pages. It automates image optimization, minification and asset versioning, and adds SEO fundamentals, while keeping each page isolated and reproducible.
 
-[Código e documentação](https://github.com/osamucadev/site-forge)
+[Code and docs](https://github.com/osamucadev/site-forge)
 
 ### TrueStreak
 
 [![TrueStreak](./assets/true-streak.webp)](https://truestreak.life)
 
-Aplicação de acompanhamento de treinos com uma proposta de consistência sem culpa. O produto valoriza progresso sustentável e transforma esforço real em continuidade, sem tratar um dia difícil como perda de toda a evolução.
+A workout-tracking app built around guilt-free consistency. It values sustainable progress and turns real effort into continuity, instead of treating one hard day as lost progress.
 
-[Código](https://github.com/osamucadev/truestreak) · [Site](https://truestreak.life)
+[Code](https://github.com/osamucadev/truestreak) · [Site](https://truestreak.life)
 
 ### Job Watcher
 
 [![Job Watcher](./assets/job-watcher.webp)](https://github.com/osamucadev/job-watcher)
 
-Painel local que monitora páginas de carreira, identifica novas oportunidades e preserva o histórico. A primeira versão acompanha a InHire em horários programados, com destaques por palavras-chave e arquivamento sem apagar dados.
+A self-hosted dashboard that monitors company career pages, surfaces new openings and keeps a history of past listings, so you don't have to check each site manually. The first version tracks InHire on a schedule, with keyword highlighting and non-destructive archiving.
 
-[Código](https://github.com/osamucadev/job-watcher)
+[Code](https://github.com/osamucadev/job-watcher)
 
-## Tecnologias e práticas
+## Technologies
 
-| Área | Experiência principal |
-| --- | --- |
-| Frontend | JavaScript, TypeScript, React, Next.js, Vue, HTML e CSS |
-| Backend | Node.js, NestJS, APIs e integrações |
-| Dados e infraestrutura | PostgreSQL, Firebase, AWS e Azure |
-| Produto web | E-commerce, acessibilidade, SEO técnico e Web Performance |
-| Engenharia | Arquitetura, modernização progressiva, testes, documentação e code review |
-| Colaboração | Descoberta técnica, comunicação com stakeholders, pareamento e ensino |
+**Languages & Web:** JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS
+**Backend & Data:** Node.js, NestJS, PostgreSQL, Firebase
+**Infrastructure:** AWS, Azure
+**Practices:** Architecture, progressive modernization, testing, code review, technical documentation
 
-Ferramentas mudam. Critério fica.
-
-## Contato
-
-Gosto de problemas interessantes e de gente boa para resolvê-los junto.
-
-- [Portfólio](https://samuelcaetite.dev)
-- [LinkedIn](https://linkedin.com/in/samuelcaetite)
-- [E-mail](mailto:srcaetite@gmail.com)
-- [WhatsApp](https://wa.me/5511999510580)
-
-<div align="center">
-
-**No fim, ainda é sobre pessoas.**
-
-</div>
