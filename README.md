@@ -82,7 +82,17 @@ A self-hosted dashboard that monitors company career pages, surfaces new opening
 [Code](https://github.com/osamucadev/job-watcher)
 
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+**Git Sentinel**
+
+[<img src="./assets/git-sentinel.png" width="100%" alt="Git Sentinel" />](https://github.com/osamucadev/git-sentinel)
+
+A local-first desktop app that gives a single, scannable view of every Git repository on your machine: current branch, local changes, upstream status and project reference, without taking any automatic action on your behalf.
+
+[Code](https://github.com/osamucadev/git-sentinel) · [Site](https://en.samuelcaetite.dev/git-sentinel)
+
+</td>
 </tr>
 </table>
 
