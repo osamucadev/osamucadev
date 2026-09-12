@@ -49,7 +49,7 @@ My personal website holds the deeper version of my story: engineering approach, 
 
 [<img src="./assets/site-forge.webp" width="100%" alt="SiteForge" />](https://github.com/osamucadev/site-forge)
 
-A modular build system for static landing pages. Automates image optimization, minification and asset versioning, and adds SEO fundamentals, while keeping each page isolated and reproducible.
+A modular build system for static landing pages, with automated image optimization, minification and SEO fundamentals baked in.
 
 [Code and docs](https://github.com/osamucadev/site-forge)
 
@@ -60,7 +60,7 @@ A modular build system for static landing pages. Automates image optimization, m
 
 [<img src="./assets/true-streak.webp" width="100%" alt="TrueStreak" />](https://truestreak.life)
 
-A workout-tracking app built around guilt-free consistency. Values sustainable progress and turns real effort into continuity, instead of treating one hard day as lost progress.
+A workout-tracking app built around guilt-free consistency, treating real effort as progress even on the hard days.
 
 [Code](https://github.com/osamucadev/truestreak) · [Site](https://truestreak.life)
 
@@ -73,7 +73,7 @@ A workout-tracking app built around guilt-free consistency. Values sustainable p
 
 [<img src="./assets/job-watcher.webp" width="100%" alt="Job Watcher" />](https://github.com/osamucadev/job-watcher)
 
-A self-hosted dashboard that monitors company career pages, surfaces new openings and keeps a history of past listings, so you don't have to check each site manually. The first version tracks InHire on a schedule, with keyword highlighting and non-destructive archiving.
+A self-hosted dashboard that monitors company career pages, surfaces new openings and highlights the ones matching your keywords.
 
 [Code](https://github.com/osamucadev/job-watcher)
 
@@ -84,7 +84,7 @@ A self-hosted dashboard that monitors company career pages, surfaces new opening
 
 [<img src="./assets/git-sentinel.png" width="100%" alt="Git Sentinel" />](https://github.com/osamucadev/git-sentinel)
 
-A local-first desktop app that gives a single, scannable view of every Git repository on your machine: current branch, local changes, upstream status and project reference, without taking any automatic action on your behalf.
+A local-first desktop app that gives one scannable view of every Git repository on your machine, without taking any automatic action on your behalf.
 
 [Code](https://github.com/osamucadev/git-sentinel) · [Site](https://en.samuelcaetite.dev/git-sentinel)
 
