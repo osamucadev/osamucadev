@@ -15,7 +15,9 @@ I build and evolve software across the full stack, from frontend and backend to 
 
 ## About
 
-I currently work as a Senior Software Engineer at **VCASOFT**, on initiatives for **Vivo / Telefónica, Tecidos Kite and Feeagro**. My background also includes projects for **Americanas, CNN Brasil and Universidade de São Paulo**, along with experience at **DRIVEN.CX, Vorttex, Saveadd, React Legends and Habits**.
+I work as a Senior Software Engineer, building and evolving software across web, backend and mobile, with a strong focus on maintainability, product context and pragmatic engineering.
+
+Over the years, my work has contributed to projects and products connected to brands such as **BMW, iFood, University of São Paulo, Americanas, Pandora Jewelry, Vivo, Telefónica, Brazilian agribusiness, Bradesco, Tramontina, Riachuelo, Farmácia Indiana and UOL**.
 
 Before writing code, I try to understand the people affected by a problem, the product intent, the business context and the constraints of the existing system. That context is what makes technical decisions responsible rather than just possible.
 
