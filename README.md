@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer
 
-I build and evolve software across the full stack, from frontend and backend to mobile, with a focus on architecture, maintainability and progressive modernization.
+I build and evolve software across web, backend and mobile, with a focus on architecture, maintainability and systems that can keep evolving.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuelcaetite.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelcaetite)
@@ -15,28 +15,21 @@ I build and evolve software across the full stack, from frontend and backend to 
 
 ## About
 
-I work as a Senior Software Engineer, building and evolving software across web, backend and mobile, with a strong focus on maintainability, product context and pragmatic engineering.
-
-Over the years, my work has contributed to projects and products connected to brands such as **BMW, iFood, University of São Paulo, Americanas, Pandora Jewelry, Vivo, Telefónica, Brazilian agribusiness, Bradesco, Tramontina, Riachuelo, Farmácia Indiana and UOL**.
+My work has contributed to projects and products across organizations and industries including **BMW, iFood, University of São Paulo, Americanas, Pandora Jewelry, Vivo, Telefónica, Brazilian agribusiness, Bradesco, Tramontina, Riachuelo, Farmácia Indiana and UOL**.
 
 Before writing code, I try to understand the people affected by a problem, the product intent, the business context and the constraints of the existing system. That context is what makes technical decisions responsible rather than just possible.
-
-JavaScript and TypeScript are central to how I work, but I move across layers of a product as needed, from UI to APIs to infrastructure, rather than staying confined to one stack.
 
 ## How I work
 
 ```typescript
-const principles = {
+const engineeringApproach = {
   context: "Understand enough to decide deliberately",
-  delivery: "Solve the problem without blocking the next evolution",
-  clarity: "Code, decisions and docs need to be readable",
-  modernization: "Transform systems progressively, without ignoring what already works",
-  leadership: "Multiply knowledge, tooling and autonomy",
-  technology: "The stack serves the problem, not the other way around",
+  tradeoffs: "Weigh product, architecture and delivery constraints together",
+  quality: "Test and document as part of building, not after",
+  modernization: "Transform systems progressively, keep what already works",
+  collaboration: "AI agents extend execution; judgment stays human",
 };
 ```
-
-I use AI agents for investigation, implementation, review and testing. They extend how much I can execute, but context, judgment and technical decisions stay a human responsibility.
 
 ## Professional Portfolio
 
@@ -48,34 +41,73 @@ My personal website holds the deeper version of my story: engineering approach, 
 
 ## Selected Projects
 
-### SiteForge
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![SiteForge](./assets/site-forge.webp)](https://github.com/osamucadev/site-forge)
+**SiteForge**
 
-A modular build system for static landing pages. It automates image optimization, minification and asset versioning, and adds SEO fundamentals, while keeping each page isolated and reproducible.
+[<img src="./assets/site-forge.webp" width="100%" alt="SiteForge" />](https://github.com/osamucadev/site-forge)
+
+A modular build system for static landing pages, with automated image optimization, minification and SEO fundamentals baked in.
 
 [Code and docs](https://github.com/osamucadev/site-forge)
 
-### TrueStreak
+</td>
+<td width="50%" valign="top">
 
-[![TrueStreak](./assets/true-streak.webp)](https://truestreak.life)
+**TrueStreak**
 
-A workout-tracking app built around guilt-free consistency. It values sustainable progress and turns real effort into continuity, instead of treating one hard day as lost progress.
+[<img src="./assets/true-streak.webp" width="100%" alt="TrueStreak" />](https://truestreak.life)
+
+A workout-tracking app built around guilt-free consistency, treating real effort as progress even on the hard days.
 
 [Code](https://github.com/osamucadev/truestreak) · [Site](https://truestreak.life)
 
-### Job Watcher
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Job Watcher](./assets/job-watcher.webp)](https://github.com/osamucadev/job-watcher)
+**Job Watcher**
 
-A self-hosted dashboard that monitors company career pages, surfaces new openings and keeps a history of past listings, so you don't have to check each site manually. The first version tracks InHire on a schedule, with keyword highlighting and non-destructive archiving.
+[<img src="./assets/job-watcher.webp" width="100%" alt="Job Watcher" />](https://github.com/osamucadev/job-watcher)
+
+A self-hosted dashboard that monitors company career pages, surfaces new openings and highlights the ones matching your keywords.
 
 [Code](https://github.com/osamucadev/job-watcher)
 
-## Technologies
+</td>
+<td width="50%" valign="top">
 
-**Languages & Web:** JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS
-**Backend & Data:** Node.js, NestJS, PostgreSQL, Firebase
-**Infrastructure:** AWS, Azure
-**Practices:** Architecture, progressive modernization, testing, code review, technical documentation
+**Git Sentinel**
+
+[<img src="./assets/git-sentinel.png" width="100%" alt="Git Sentinel" />](https://github.com/osamucadev/git-sentinel)
+
+A local-first desktop app that gives one scannable view of every Git repository on your machine, without taking any automatic action on your behalf.
+
+[Code](https://github.com/osamucadev/git-sentinel) · [Site](https://en.samuelcaetite.dev/git-sentinel)
+
+</td>
+</tr>
+</table>
+
+## Engineering Toolbox
+
+I work across multiple languages, ecosystems and engineering tools, choosing the stack according to the problem and context. JavaScript and TypeScript form a significant part of my background:
+
+**Languages**
+JavaScript · TypeScript · Python · C# · PHP · Dart · C · C++ · Java
+
+**Web & Backend**
+React · Next.js · Vue · Node.js · Fastify · Express · FastAPI · .NET · Laravel · Symfony · WordPress
+
+**Mobile**
+React Native · Flutter
+
+**UI & Styling**
+Storybook · Tailwind CSS · Bootstrap
+
+**Data & Engineering**
+PostgreSQL · MySQL · Firebase · Docker · automated testing · CI/CD · AI-assisted development
 
