@@ -15,13 +15,9 @@ I build and evolve software across the full stack, from frontend and backend to 
 
 ## About
 
-I work as a Senior Software Engineer, building and evolving software across web, backend and mobile, with a strong focus on maintainability, product context and pragmatic engineering.
-
-Over the years, my work has contributed to projects and products connected to brands such as **BMW, iFood, University of São Paulo, Americanas, Pandora Jewelry, Vivo, Telefónica, Brazilian agribusiness, Bradesco, Tramontina, Riachuelo, Farmácia Indiana and UOL**.
+Over the years, my work has contributed to projects and products across organizations and industries including **BMW, iFood, University of São Paulo, Americanas, Pandora Jewelry, Vivo, Telefónica, Brazilian agribusiness, Bradesco, Tramontina, Riachuelo, Farmácia Indiana and UOL**.
 
 Before writing code, I try to understand the people affected by a problem, the product intent, the business context and the constraints of the existing system. That context is what makes technical decisions responsible rather than just possible.
-
-JavaScript and TypeScript are central to how I work, but I move across layers of a product as needed, from UI to APIs to infrastructure, rather than staying confined to one stack.
 
 ## How I work
 
