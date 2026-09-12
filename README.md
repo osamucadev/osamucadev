@@ -92,9 +92,9 @@ A local-first desktop app that gives one scannable view of every Git repository 
 </tr>
 </table>
 
-## Technologies
+## Engineering Toolbox
 
-Strongest in JavaScript and TypeScript, with hands-on experience across these ecosystems:
+Strongest in JavaScript and TypeScript, with hands-on experience across these languages, ecosystems and engineering tools:
 
 **Languages**
 JavaScript · TypeScript · Python · C# · PHP · Dart · C · C++ · Java
@@ -102,8 +102,11 @@ JavaScript · TypeScript · Python · C# · PHP · Dart · C · C++ · Java
 **Web & Backend**
 React · Next.js · Vue · Node.js · Fastify · Express · FastAPI · .NET · Laravel · Symfony · WordPress
 
-**Mobile & UI**
-React Native · Flutter · Storybook · Tailwind CSS · Bootstrap
+**Mobile**
+React Native · Flutter
+
+**UI & Styling**
+Storybook · Tailwind CSS · Bootstrap
 
 **Data & Engineering**
 PostgreSQL · MySQL · Firebase · Docker · automated testing · CI/CD · AI-assisted development
