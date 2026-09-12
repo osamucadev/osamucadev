@@ -88,8 +88,17 @@ A self-hosted dashboard that monitors company career pages, surfaces new opening
 
 ## Technologies
 
-**Languages & Web:** JavaScript, TypeScript, React, Next.js, Vue, HTML, CSS
-**Backend & Data:** Node.js, NestJS, PostgreSQL, Firebase
-**Infrastructure:** AWS, Azure
-**Practices:** Architecture, progressive modernization, testing, code review, technical documentation
+Strongest in JavaScript and TypeScript, with hands-on experience across these ecosystems:
+
+**Languages**
+JavaScript · TypeScript · Python · C# · PHP · Dart · C · C++ · Java
+
+**Web & Backend**
+React · Next.js · Vue · Node.js · Fastify · Express · FastAPI · .NET · Laravel · Symfony · WordPress
+
+**Mobile & UI**
+React Native · Flutter · Storybook · Tailwind CSS · Bootstrap
+
+**Data & Engineering**
+PostgreSQL · MySQL · Firebase · Docker · automated testing · CI/CD · AI-assisted development
 
