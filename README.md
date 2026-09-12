@@ -22,7 +22,7 @@ Before writing code, I try to understand the people affected by a problem, the p
 ## How I work
 
 ```typescript
-const principles = {
+const engineeringApproach = {
   context: "Understand enough to decide deliberately",
   tradeoffs: "Weigh product, architecture and delivery constraints together",
   quality: "Test and document as part of building, not after",
