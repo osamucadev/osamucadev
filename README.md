@@ -45,29 +45,46 @@ My personal website holds the deeper version of my story: engineering approach, 
 
 ## Selected Projects
 
-### SiteForge
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![SiteForge](./assets/site-forge.webp)](https://github.com/osamucadev/site-forge)
+**SiteForge**
 
-A modular build system for static landing pages. It automates image optimization, minification and asset versioning, and adds SEO fundamentals, while keeping each page isolated and reproducible.
+[<img src="./assets/site-forge.webp" width="100%" alt="SiteForge" />](https://github.com/osamucadev/site-forge)
+
+A modular build system for static landing pages. Automates image optimization, minification and asset versioning, and adds SEO fundamentals, while keeping each page isolated and reproducible.
 
 [Code and docs](https://github.com/osamucadev/site-forge)
 
-### TrueStreak
+</td>
+<td width="50%" valign="top">
 
-[![TrueStreak](./assets/true-streak.webp)](https://truestreak.life)
+**TrueStreak**
 
-A workout-tracking app built around guilt-free consistency. It values sustainable progress and turns real effort into continuity, instead of treating one hard day as lost progress.
+[<img src="./assets/true-streak.webp" width="100%" alt="TrueStreak" />](https://truestreak.life)
+
+A workout-tracking app built around guilt-free consistency. Values sustainable progress and turns real effort into continuity, instead of treating one hard day as lost progress.
 
 [Code](https://github.com/osamucadev/truestreak) · [Site](https://truestreak.life)
 
-### Job Watcher
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Job Watcher](./assets/job-watcher.webp)](https://github.com/osamucadev/job-watcher)
+**Job Watcher**
+
+[<img src="./assets/job-watcher.webp" width="100%" alt="Job Watcher" />](https://github.com/osamucadev/job-watcher)
 
 A self-hosted dashboard that monitors company career pages, surfaces new openings and keeps a history of past listings, so you don't have to check each site manually. The first version tracks InHire on a schedule, with keyword highlighting and non-destructive archiving.
 
 [Code](https://github.com/osamucadev/job-watcher)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ## Technologies
 
