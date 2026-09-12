@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer
 
-I build and evolve software across the full stack, from frontend and backend to mobile, with a focus on architecture, maintainability and progressive modernization.
+I build and evolve software across web, backend and mobile, with a focus on architecture, maintainability and systems that can keep evolving.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuelcaetite.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelcaetite)
@@ -15,7 +15,7 @@ I build and evolve software across the full stack, from frontend and backend to 
 
 ## About
 
-Over the years, my work has contributed to projects and products across organizations and industries including **BMW, iFood, University of São Paulo, Americanas, Pandora Jewelry, Vivo, Telefónica, Brazilian agribusiness, Bradesco, Tramontina, Riachuelo, Farmácia Indiana and UOL**.
+My work has contributed to projects and products across organizations and industries including **BMW, iFood, University of São Paulo, Americanas, Pandora Jewelry, Vivo, Telefónica, Brazilian agribusiness, Bradesco, Tramontina, Riachuelo, Farmácia Indiana and UOL**.
 
 Before writing code, I try to understand the people affected by a problem, the product intent, the business context and the constraints of the existing system. That context is what makes technical decisions responsible rather than just possible.
 
@@ -94,7 +94,7 @@ A local-first desktop app that gives one scannable view of every Git repository 
 
 ## Engineering Toolbox
 
-Strongest in JavaScript and TypeScript, with hands-on experience across these languages, ecosystems and engineering tools:
+I work across multiple languages, ecosystems and engineering tools, choosing the stack according to the problem and context. JavaScript and TypeScript form a significant part of my background:
 
 **Languages**
 JavaScript · TypeScript · Python · C# · PHP · Dart · C · C++ · Java
