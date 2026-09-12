@@ -28,15 +28,12 @@ JavaScript and TypeScript are central to how I work, but I move across layers of
 ```typescript
 const principles = {
   context: "Understand enough to decide deliberately",
-  delivery: "Solve the problem without blocking the next evolution",
-  clarity: "Code, decisions and docs need to be readable",
-  modernization: "Transform systems progressively, without ignoring what already works",
-  leadership: "Multiply knowledge, tooling and autonomy",
-  technology: "The stack serves the problem, not the other way around",
+  tradeoffs: "Weigh product, architecture and delivery constraints together",
+  quality: "Test and document as part of building, not after",
+  modernization: "Transform systems progressively, keep what already works",
+  collaboration: "AI agents extend execution; judgment stays human",
 };
 ```
-
-I use AI agents for investigation, implementation, review and testing. They extend how much I can execute, but context, judgment and technical decisions stay a human responsibility.
 
 ## Professional Portfolio
 
